@@ -1,0 +1,49 @@
+# print ('Testando pyt')
+# nome = 'Arian'
+# print(nome)
+
+# INPUT
+
+# idade = int(input("Digite sua idade: "))
+# print(f'Sua idade é {idade}')
+# nascimento = 2025 - idade
+# print(f'Você nasceu no ano de {nascimento}')
+
+
+# nome = input('Digite seu nome: ')
+# idade = input('Digite sua idade: ')
+
+# print(f'Seu nome é {nome} e sua idade é {idade}')
+
+# Operadores de associação
+# nome = 'Arian'
+# pesquisa = "ria"
+
+# print(pesquisa in nome)
+# print("Jonas" in nome)
+# print("z" not in nome)
+
+#Exercícios
+#Área do retângulo
+#base = float(input("Digite o valor da base do retângulo: "))
+#altura = float(input("Digite o valor da altura do retângulo: "))
+#area = base * altura
+#print(f'A área do retângulo é : {area}')
+
+#Área do quadrado
+#lado = float(input("Digite o valor de um dos lados do quadrado: "))
+#area = lado * lado
+#print(f'A área do quadrado é : {area}')
+
+#Área do círculo
+#pi = 3.14
+#raio = float(input("Digite o valor do raio do círculo: "))
+#area = 2 * pi * raio
+#print(f'A área do círculo é :{area}')
+
+#Desconto do produto
+
+#valor = float(input("Digite o valor do produto: "))
+#desconto = float(input("Digite o valor do desconto"))
+#valorfinal = valor - valor * (desconto / 100)
+#print(f"O valor do produto é de {valorfinal}")
